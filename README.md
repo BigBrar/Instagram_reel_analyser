@@ -18,7 +18,7 @@ Find the most popular video of your favourite creator based on like, comment and
 # How to run - 
 - after installing activate the created virtual env and run "flask run"
 
-Now after this the app will start getting hosted at localhost:5000 ...
+Now after this the app will start getting hosted at localhost:5000 ..
 
 
 # Usage - 
